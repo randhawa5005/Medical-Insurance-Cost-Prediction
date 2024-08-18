@@ -6,6 +6,7 @@ I am Muskanpreet, and I am excited to share my project focused on predicting med
 <h3>Project Overview</h3>
 The primary objective of this project was to develop predictive models that can estimate medical insurance costs based on a range of input features. The project utilized two key machine learning algorithms:
 
+
 Linear Regression: To capture and model the linear relationships between the features and the target variable (insurance cost).
 
 Decision Trees: To handle non-linear relationships and provide interpretability through tree-based modeling.
