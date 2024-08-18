@@ -18,6 +18,7 @@ Data Acquisition: The dataset used includes information on medical insurance pol
 
 Data Cleaning: Handled missing values and duplicate values.
 
+Visulaization: Visualized data using various graphs such as Distribution plots and count plots.
 <h3>Model Development:</h3>
 
 Linear Regression: Applied Linear Regression to establish baseline predictions and understand linear relationships between features and insurance costs.
