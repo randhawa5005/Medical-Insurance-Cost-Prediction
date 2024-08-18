@@ -28,7 +28,7 @@ Decision Tree Regression: Implemented Decision Tree Regression to explore and mo
 Evaluated the performance of both models and checked accuracy score.
 Compared model results to determine the best-performing algorithm for predicting insurance costs.
 
-Conclusion
+<h3>Conclusion</h3>
 This project demonstrates my ability to apply machine learning techniques to real-world problems, particularly in predicting medical insurance costs. By leveraging Linear Regression and Decision Trees, I have created a robust analytical framework for forecasting and understanding insurance expenses.
 
 I invite you to explore this project to gain insights into predictive modeling techniques and their applications in the field of medical insurance.
